@@ -1,26 +1,22 @@
-API Monetization Gateway
+# API Monetization Gateway
 
-A. Getting Started
+A .N## 🚀 Getting Started
 
-Docker Setup 
+### Docker Setup (Easiest Way)
 ```bash
 docker-compose up -d
 ```
 - API runs on: http://localhost:5097
 - Swagger docs: http://localhost:5097/swagger
 
-Local Development
+### Local Development
 ```bash
 dotnet restore
 dotnet build
 dotnet run --project ApiMonetizationGateway.API
 ```
-Testing
-```bash
-dotnet test
-```
 
-My Approach
+## 🎯 My Approach
 
 I built this to demonstrate how I approach API monetization challenges in production environments:
 
