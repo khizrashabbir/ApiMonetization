@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-### Docker Setup (Easiest Way)
+### Docker Setup 
 ```bash
 docker-compose up -d
 ```
