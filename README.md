@@ -1,6 +1,6 @@
 # API Monetization Gateway
 
-A .N## 🚀 Getting Started
+## 🚀 Getting Started
 
 ### Docker Setup (Easiest Way)
 ```bash
