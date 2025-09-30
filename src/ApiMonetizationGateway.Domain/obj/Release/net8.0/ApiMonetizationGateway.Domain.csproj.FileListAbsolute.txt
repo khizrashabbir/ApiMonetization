@@ -1,0 +1,11 @@
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\bin\Release\net8.0\ApiMonetizationGateway.Domain.deps.json
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\bin\Release\net8.0\ApiMonetizationGateway.Domain.dll
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\bin\Release\net8.0\ApiMonetizationGateway.Domain.pdb
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\obj\Release\net8.0\ApiMonetizationGateway.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\obj\Release\net8.0\ApiMonetizationGateway.Domain.AssemblyInfoInputs.cache
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\obj\Release\net8.0\ApiMonetizationGateway.Domain.AssemblyInfo.cs
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\obj\Release\net8.0\ApiMonetizationGateway.Domain.csproj.CoreCompileInputs.cache
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\obj\Release\net8.0\ApiMonetizationGateway.Domain.dll
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\obj\Release\net8.0\refint\ApiMonetizationGateway.Domain.dll
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\obj\Release\net8.0\ApiMonetizationGateway.Domain.pdb
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\src\ApiMonetizationGateway.Domain\obj\Release\net8.0\ref\ApiMonetizationGateway.Domain.dll

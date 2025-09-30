@@ -1,0 +1,6 @@
+{
+  "ApiMonetizationGateway.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\caroline.clements\\Downloads\\ApiMonetizationGateway\\ApiMonetizationGateway.API",
+  "ApiMonetizationGateway.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\caroline.clements\\Downloads\\ApiMonetizationGateway\\ApiMonetizationGateway.Application",
+  "ApiMonetizationGateway.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\caroline.clements\\Downloads\\ApiMonetizationGateway\\src\\ApiMonetizationGateway.Domain",
+  "ApiMonetizationGateway.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\caroline.clements\\Downloads\\ApiMonetizationGateway\\ApiMonetizationGateway.Infrastructure"
+}

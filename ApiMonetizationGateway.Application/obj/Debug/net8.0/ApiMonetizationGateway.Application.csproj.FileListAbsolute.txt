@@ -1,0 +1,15 @@
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\bin\Debug\net8.0\ApiMonetizationGateway.Application.deps.json
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\bin\Debug\net8.0\ApiMonetizationGateway.Application.dll
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\bin\Debug\net8.0\ApiMonetizationGateway.Application.pdb
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\bin\Debug\net8.0\ApiMonetizationGateway.Domain.dll
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\bin\Debug\net8.0\ApiMonetizationGateway.Domain.pdb
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ApiMonetizationGateway.Application.csproj.AssemblyReference.cache
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ApiMonetizationGateway.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ApiMonetizationGateway.Application.AssemblyInfoInputs.cache
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ApiMonetizationGateway.Application.AssemblyInfo.cs
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ApiMonetizationGateway.Application.csproj.CoreCompileInputs.cache
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ApiMonet.7BF6C491.Up2Date
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ApiMonetizationGateway.Application.dll
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\refint\ApiMonetizationGateway.Application.dll
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ApiMonetizationGateway.Application.pdb
+C:\Users\caroline.clements\Downloads\ApiMonetizationGateway\ApiMonetizationGateway.Application\obj\Debug\net8.0\ref\ApiMonetizationGateway.Application.dll

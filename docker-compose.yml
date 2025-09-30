@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  # SQL Server Database  
+  database:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=ApiGateway123!
+    ports:
+      - "1433:1433"
+    volumes:
+      - db_data:/var/opt/mssql
+
+  # API Monetization Gateway
+  api:
+    build: .
+    ports:
+      - "5097:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=database;Database=ApiMonetizationGateway;User Id=sa;Password=ApiGateway123!;TrustServerCertificate=true;
+    depends_on:
+      - database
+
+volumes:
+  db_data:
